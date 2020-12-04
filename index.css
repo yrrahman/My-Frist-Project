@@ -1,0 +1,32 @@
+body{
+    animation-name: yr;
+    animation-duration: 25s;
+
+
+}
+@keyframes yr{
+
+    0%{background-color: mediumseagreen;}
+    10%{ background-color: rgb(3, 66, 17);}
+    20%{ background-color:rgb(21, 33, 199); }
+    30% {background-color: orange;}
+    40% {background-color: pink;}
+    50% { background-color: red;}
+    60% { background-color: rgb(28, 211, 224);}
+    70% { background-color: rgba(28, 221, 21, 0.527);}
+    80% { background-color: rgb(4, 10, 0);}
+    90% { background-color: rgb(201, 188, 9);}
+    100% { background-color: rgb(29, 18, 68);}
+}
+h1{
+    background-color: coral;
+    color: cyan;
+    width: 30%;
+    text-align: center;
+    margin-left: 32%;
+
+}
+p{
+    
+    color: rgb(25, 2, 109);
+}
